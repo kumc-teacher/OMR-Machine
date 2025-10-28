@@ -1,0 +1,7 @@
+PyQt6
+opencv-python
+pytesseract
+pdf2image
+numpy
+Pillow
+reportlab
