@@ -13,11 +13,11 @@ Desktop application for recognizing multiple-choice answer sheets, verifying the
 1. Create a virtual environment (already configured in `.venv` if you used the provided tooling).
 2. Install the dependencies:
 	```powershell
-	C:/Users/JCMKEC/Desktop/python/MC_marking/.venv/Scripts/python.exe -m pip install -r requirements.txt
+	.\.venv\Scripts\python.exe -m pip install -r requirements.txt
 	```
 3. Launch the application:
 	```powershell
-	C:/Users/JCMKEC/Desktop/python/MC_marking/.venv/Scripts/python.exe main.py
+	.\.venv\Scripts\python.exe main.py
 	```
 
 ## Usage Tips
