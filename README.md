@@ -1,4 +1,4 @@
-# MC Marking
+# OMR Machine
 
 Desktop application for recognizing multiple-choice answer sheets, verifying them against an answer key, and producing per-page scoring summaries.
 
